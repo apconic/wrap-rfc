@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "wrap-rfc@*",
+        "scope": null,
+        "escapedName": "wrap-rfc",
+        "name": "wrap-rfc",
+        "rawSpec": "*",
+        "spec": "*",
+        "type": "range"
+      },
+      "/home/administrator/Desktop/git unify/unify"
+    ]
+  ],
+  "_from": "wrap-rfc@*",
+  "_inCache": true,
+  "_location": "/wrap-rfc",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/wrap-rfc-1.0.1.tgz_1484037214287_0.5637671460863203"
+  },
+  "_npmUser": {
+    "name": "farahiftazin",
+    "email": "farahshaikh@apconic.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "wrap-rfc@*",
+    "scope": null,
+    "escapedName": "wrap-rfc",
+    "name": "wrap-rfc",
+    "rawSpec": "*",
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wrap-rfc/-/wrap-rfc-1.0.1.tgz",
+  "_shasum": "52f7e2020d6e6cd906f056ba7fcd706dabded455",
+  "_shrinkwrap": null,
+  "_spec": "wrap-rfc@*",
+  "_where": "/home/administrator/Desktop/git unify/unify",
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "52f7e2020d6e6cd906f056ba7fcd706dabded455",
+    "tarball": "https://registry.npmjs.org/wrap-rfc/-/wrap-rfc-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    "farahshaikh <farahshaikh@apconic.net>"
+  ],
+  "name": "wrap-rfc",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "description": ""
+}
