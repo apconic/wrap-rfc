@@ -41,7 +41,7 @@ var RFCClient = {
       var client = await this._getClient(connectionParams);
       try {
         var invokePromise = util.promisify(client.invoke);
-        Logger.info(`invoking ${functionModuleName}`);
+        console.log(`invoking ${functionModuleName}`);
         var res = await invokePromise(client.invoke, functionModuleName, exportParam);
         return res;
       } catch (invokeError) {
