@@ -46,7 +46,9 @@
   "_spec": "wrap-rfc@*",
   "_where": "/home/administrator/Desktop/git unify/unify",
   "author": "",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.5"
+  },
   "devDependencies": {},
   "directories": {},
   "dist": {
