@@ -21,7 +21,7 @@ var RFCClient = {
     if (!this.client || !this.client.isAlive()) {
       try {
         this.client = new rfc.Client(connectionParams);
-        if (!isEmpty(this.client)) {
+        if (isEmpty(this.client)) {
           throw new Error('Unable to create client');
         }
         var connectionPromise = util.promisify(this.client.connect);
